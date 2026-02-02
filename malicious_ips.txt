@@ -1,2 +1,0 @@
-# Fortinet malicious IP blocklist
-# Updated automatically by Google SecOps SOAR
